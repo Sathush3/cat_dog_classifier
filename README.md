@@ -1,16 +1,6 @@
 # cat_dog_classifier
 
-A cat dog classifier project using tflite
+A cat dog classifier project using tflite in flutter
 
-## Getting Started
+This is a part of my practice image classification in flutter using tflte 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
